@@ -22,6 +22,20 @@ a {
   padding: 0;
 }
 
+.content-ouid {
+  width: 100vw;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  background-image: url("../img/DweedSmith.png");
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 20%;
+  margin: 0;
+  padding: 0;
+}
+
 .footer {
   min-height: 55px;
   max-height: 110px;
